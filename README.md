@@ -74,6 +74,8 @@ However, offering this product and service to game developers would give indie g
 
 - Why are these technologies appropriate for your solution?
 
+in this code, the function update is called every frame on each AI Enemy character, checking if the AI is aggrevated or can attack the player or has recently seen the player. If IsAggrevated and CanAttack(player) return false, and SuspisionBehavoir() returns false, then the AI will go back to PatrolBehavior()
+
 ```C#
 void Update()
 {
