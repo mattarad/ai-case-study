@@ -73,3 +73,21 @@ However, offering this product and service to game developers would give indie g
 - What technologies would this additional product or service utilize? AGI
 
 - Why are these technologies appropriate for your solution?
+
+```C#
+void Update()
+{
+  if(IsAggrevated() && fighter.CanAttack(player))
+  {
+      AttackBehavior();
+  }
+  else if(timeSinceLastSawPlayer < suspisionTime)
+  {
+      SuspisionBehavoir();
+  }
+  else
+  {
+      PatrolBehavior();
+  }
+}
+```
