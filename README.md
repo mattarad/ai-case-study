@@ -59,7 +59,7 @@
   Monthly Active Game Developers and Subscribers
 
 - How is your company performing relative to competitors in the same field?
-  There is a lot of debate on what Game Engine to develope using. Mostly coming down to preference. Unity's biggest competitor is Unreal Engine. Despite Unreal being more renown for their 3D rendering, Unity's simplicity and ease of use allows for a larger audience to enter into game developement.
+  There is a lot of debate on what Game Engine to develope using. Mostly coming down to preference. Unity's biggest competitor is Unreal Engine. Unreal is more well known for their 3D rendering and graphics - sometimes seen as overkill. Unity is known for its realitve simplicity to understand, and ease to develop games.
 
 ## Recommendations
 
@@ -77,7 +77,7 @@
 - Why are these technologies appropriate for your solution?
   Because they would give low funded game developers a huge leg up in development.
 
-in this code, the function update is called every frame on each AI Enemy character, checking if the AI is aggrevated or can attack the player or has recently seen the player. If IsAggrevated and CanAttack(player) return false, and SuspisionBehavoir() returns false, then the AI will go back to PatrolBehavior()
+In this code, the function update is called every frame on each AI Enemy character, checking if the AI is aggrevated or can attack the player or has recently seen the player. If IsAggrevated and CanAttack(player) return false, and SuspisionBehavoir() returns false, then the AI will go back to PatrolBehavior()
 
 ```C#
 void Update()
@@ -97,11 +97,6 @@ void Update()
 }
 ```
 
-Below is a video of a package provided by Unity built with Python to develop Machine Learning Agents. ML Agents use a reward based system to "learn" that the goal of the game is to find the gold ball. ML Agents get rewarded for collecting gold balls while losing points for hitting walls.
-
-
-
+Below is a video of a package provided by Unity built with Python to develop Machine Learning Agents, spoken above. ML Agents use a reward based system to "learn" that the goal of the game is to find the gold ball. ML Agents get rewarded for collecting gold balls while losing points for hitting walls.
 
 https://github.com/mattarad/ai-case-study/assets/15133901/3dc042a3-8faf-4617-ad18-c4cd74c6c586
-
-
