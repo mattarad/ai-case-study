@@ -98,3 +98,10 @@ void Update()
 ```
 
 Below is a video of a package provided by Unity built with Python to develop Machine Learning Agents. ML Agents use a reward based system to "learn" that the goal of the game is to find the gold ball. ML Agents get rewarded for collecting gold balls while losing points for hitting walls.
+
+
+
+
+https://github.com/mattarad/ai-case-study/assets/15133901/3dc042a3-8faf-4617-ad18-c4cd74c6c586
+
+
