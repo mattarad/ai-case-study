@@ -1,6 +1,6 @@
 # Uniy and Generative AI
 
-## Unity Technologies has started implementing AI in the game development field. I believe that AI and ML will drastically change the gaming industry where we start seeing Games become much more that what they are today, but worlds that can be randomly generated through Gen AI and with full economies run by ML.
+## Unity Technologies has started implementing AI in the game development field. I believe that AI and ML will drastically change the gaming industry where we start seeing games become much more than what it is today; worlds that can be randomly generated through Generative AI and with full economies run by ML.
 
 ### Unity Technologies
 
